@@ -1,4 +1,4 @@
-module github.com/aybabtme/orderedjson
+module github.com/glopal/orderedjson
 
 go 1.22
 
