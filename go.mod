@@ -1,9 +1,9 @@
 module github.com/aybabtme/orderedjson
 
-go 1.17
+go 1.22
 
 require (
-	github.com/aybabtme/flatjson v0.1.1
+	github.com/aybabtme/flatjson v0.1.3-0.20230505062430-1fbd38670561
 	github.com/stretchr/testify v1.7.0
 )
 
